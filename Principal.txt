@@ -1,0 +1,5 @@
+Principal.blade.php
+<h3> Nome da página </h3>
+<ul>
+    <li><a href = "{{route('site.index)}}">Principal</a></li>
+</ul>
